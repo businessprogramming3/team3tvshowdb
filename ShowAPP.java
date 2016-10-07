@@ -11,8 +11,9 @@ public class ShowAPP {
 	}
 	
 	private void menu(){
-		int id, rating, seasons;
-		String name, writer, director, description;
+		//commented out to get rid of errors because they are not currently used.  Uncomment when you implement them.
+		//int id, rating, seasons;
+		//String name, writer, director, description;
 		int choice = 1;
 		while (choice != 0){
 			System.out.println("TV Show Application");
