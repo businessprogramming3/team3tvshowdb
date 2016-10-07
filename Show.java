@@ -26,7 +26,7 @@ public class Show {
 		this.name = name;
 		this.director = director;
 		this.writer = writer;
-		this.shortDescription = shortDescription;
+		this.shortDescription = description;
 	}
 
 	public int getId() {
